@@ -6,23 +6,14 @@ The N-Queens problem is a classical combinatorial problem that involves placing 
 
 Features
 
-Implementation of the N-Queens problem using MATLAB.
+Implementation of the N-Queens problem.
 
 Uses a backtracking approach to find valid placements of queens.
 
 Visual representation of the chessboard and queen positions.
 
-Prerequisites
-
-MATLAB installed on your system.
-
-Basic understanding of recursion and backtracking algorithms.
-
 How to Run
 
-Open MATLAB.
-
-Copy and paste the provided nqueens.m script into the MATLAB editor.
 
 Run the script by executing:
 
